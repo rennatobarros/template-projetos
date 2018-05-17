@@ -1,2 +1,5 @@
-# template-projetos
-Template dos projetos em C++.
+# template-projetos [![GitHub version]]
+
+Projeto exemplo para futuros projetos em C++.
+
+
