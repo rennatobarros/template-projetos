@@ -2,4 +2,7 @@
 
 Projeto exemplo para futuros projetos em C++.
 
+## Instalação
+Rode o comando abaixo na raiz do projeto:
+`$ make`
 
