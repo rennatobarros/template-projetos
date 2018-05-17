@@ -7,7 +7,7 @@ OBJDIR = build
 CC = g++
 CFLAGS = -Wall -std=c++11 -pedantic -I $(INCLUDEDIR)
 
-BIN = ${BINDIR}/prog01
+BIN = ${BINDIR}/teste
 APP = ${APPDIR}/main.cpp
 
 SRC = $(wildcard $(SRCDIR)/*.cpp)
